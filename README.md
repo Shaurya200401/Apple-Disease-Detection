@@ -6,7 +6,7 @@
 
 
 ✦ Setup Process ✦ <br />
-> Step-0: git pull https://github.com/PriyanshSahu65/AppleDiseaseDetector <br />
+> Step-0: git pull https://github.com/Shaurya200401/Apple-Disease-Detection <br />
 > Step-1: cd AppleDiseaseDetector <br />
 > Step-2: npm install -g expo-cli / npm install <br />
 > Step-3: npm install expo-router <br />
